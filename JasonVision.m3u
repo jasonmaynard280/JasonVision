@@ -283,13 +283,19 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-id="Mentari.TV.id" group-title="Kids" ch-number="57" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png",Mentari TV HD
+#EXTINF:-1 tvg-id="Mentari.TV.id" group-title="Kids" ch-number="56" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png",Mentari TV HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="VTV1.HD.vn" group-title="Kids" ch-number="57" tvg-logo="https://beetv.my.id/logo/vtv.png",VTV HD
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="Kids.TV.HD.id" group-title="Kids" ch-number="58" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
